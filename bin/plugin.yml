@@ -1,0 +1,29 @@
+name: LobbySystem
+version: 0.15
+author: Adderino55
+main: lobbysystem.main.Main
+commands:
+  setspawn:
+  setspawn1:
+  setspawn2:
+  setspawnFFA:
+  setspawn4:
+  setspawn5:
+  setspawn6:
+  gm0:
+  gm1:
+  gm2:
+  gm3:
+  cmt:
+  cmf:
+  join FFA:
+  FFA:
+  join spawn:
+  spawn:
+  hub:
+  leave:
+  l:
+  lobby:
+  forcearea on:
+  forcearea off:
+  
