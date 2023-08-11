@@ -11,77 +11,71 @@ This plugins adds a Lobbysystem with different functionalities.
 
 Commands:
   
-  /setspawn
+  ```/setspawn```
   
-  /setspawn1
+  ```/setspawn1```
   
-  /setspawn2
+  ```/setspawn2```
   
-  /setspawnFFA
+  ```/setspawnFFA```
   
-  /setspawn4
+  ```/setspawn4```
   
-  /setspawn5
+  ```/setspawn5```
   
-  /setspawn6
+  ```/setspawn6```
   
 description: Set different spawns which can be decidedby the user and then used through the compass - only for admin.
 
 
-  /gm0
+  ```/gm0```
   
-  /gm1
+  ```/gm1```
   
-  /gm2
+  ```/gm2```
   
-  /gm3
+  ```/gm3```
   
 description: Shortens the "/set gamemode" command - only for admin.
 
 
-  /cmt
+  ```/cmt```
   
-  /cmf
+  ```/cmf```
 
 description: Gives all rights and OP on the server (use can damage Server!) - only for admin. 
 
 
-  /join FFA
+  ```/join FFA```
   
-  /FFA
+  ```/FFA```
   
 description: Teleports players to the FFA server section.
 
 
-  /join spawn
+  ```/join spawn```
   
-  /spawn
+  ```/spawn```
   
-  /hub
+  ```/hub```
   
-  /leave
+  ```/leave```
   
-  /l
+  ```/l```
   
-  /lobby
+  ```/lobby```
   
 description: Teleports  player back to the "/setspawn".
 
 
-  /forcearea on
+  ```/forcearea on```
   
-  /forcearea off
+  ```/forcearea off```
   
-description: turn on/off a forcefield under the map which teleports you back to "/setspawn" when a certain y coordinate is passed.
+description: turn on/off a forcefield under the map which teleports you back to ```/setspawn``` when a certain y coordinate is passed.
 
 ------------------------------------------------------------------------
 
-Use of assisting software:
-
-![bukkit-minecraft-6b03ac3fb8bdcda0a4c321c2531deb9f](https://user-images.githubusercontent.com/79632956/215354503-a4965168-f10d-43ca-b8ed-40ce227756f3.jpg)
-![eclipse-logo](https://user-images.githubusercontent.com/79632956/215354504-e7805b86-3909-46a0-b337-c65b744c03ec.png)
-
-------------------------------------------------------------------------
 
 End progress of Software:
 
